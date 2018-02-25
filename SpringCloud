@@ -1,0 +1,5 @@
+# SpringCloud
+
+TraceId: to track the request (Log) across the different microservices
+
+SpanId: To track the reques (Log) with in the MicroService
