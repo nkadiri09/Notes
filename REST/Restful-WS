@@ -1,0 +1,7 @@
+### Restful Web Services:
+
+      Restful Web Services is a stateless client-server architecture where web services are resources and can be identified by their URIs.
+
+      REST Client applications can use HTTP GET/POST methods to invoke Restful web services. REST doesn’t specify any specific protocol to use,
+      but in almost all cases it’s used over HTTP/HTTPS. When compared to SOAP web services, these are lightweight and doesn’t follow any standard.
+      We can use XML,JSON, text or any other type of data for request and response.
